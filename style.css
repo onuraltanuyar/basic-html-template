@@ -1,0 +1,44 @@
+body {
+
+    background-color: #000;
+
+}
+
+h1 {
+
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+
+    color: aliceblue;
+    text-align: center;
+}
+
+.forum {
+
+    background-image: url(./Resimler/messages-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    object-fit: cover;
+}
+
+.bize_katil_discord
+{
+    margin-top:5%;
+}
+
+.w3-bar w3-black {
+
+    color: #fff;
+    background-color: aliceblue;
+}
+
+.since {
+
+   margin-top: 15%;
+   margin-bottom: auto;
+}
